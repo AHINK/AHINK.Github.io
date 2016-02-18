@@ -3,7 +3,7 @@ layout: post
 subtitle: null
 date: ""
 published: false
-title: "2016-02-18-Building-a-website.md"
+title: "Building-a-website.md"
 ---
 
 ## Holy Shit, I did not realize what I'd committed to!

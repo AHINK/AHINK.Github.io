@@ -2,7 +2,7 @@
 layout: post
 subtitle: null
 date: ""
-published: false
+published: true
 title: "Building-a-website.md"
 ---
 
@@ -18,6 +18,8 @@ Well after following up on [this tutorial](http://jmcglone.com/guides/github-pag
 
 After the basics in the readme:
 - Make a CNAME file if you're using a custom domain.
+- update the config.yml
+- Change the values in the 
 - [Prose.io](prose.io) - this makes actually writing posts much easier. Who wants to edit in github's editor?
 
 

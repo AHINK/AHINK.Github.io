@@ -29,8 +29,9 @@ avatar: "/img/Allen_Hinkelman.JPG"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://AllenHinkelman.com"
-  
+  #Author's home: "http://AllenHinkelman.com"
+  Tools: "tools"
+  Growth Process: "growthprocess"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.

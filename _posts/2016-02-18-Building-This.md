@@ -1,6 +1,14 @@
+---
+layout: post
+subtitle: null
+date: ""
+published: false
+title: Untitled
+---
+
 ## Holy Shit, I did not realize what I'd committed to!
 
-So about three weeks ago I decided as a marketer, what better way to build skills and brand my self, than building a brad website?
+So about three weeks ago I decided as a marketer, what better way to build skills and brand my self, than building a brand website?
 
 Easy, right?
 
@@ -12,7 +20,8 @@ Here's everything you need to do with Dean's template after the basics in the re
 - Make a CNAME file if you're using a custom domain.
 - update the config.yml - this sets your basics 
 - update the index.html - this controls the header bar
-
+- either update or remove the Avatar image in config.yml or point it at another image.
+- index: change the title
 
 
 

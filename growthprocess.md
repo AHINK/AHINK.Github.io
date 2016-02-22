@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Growth Process
-subtitle: Processes Drive Results, not silver bullets
+subtitle: "Process Drives Results, not silver bullets"
 published: true
 ---
+

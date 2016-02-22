@@ -7,7 +7,8 @@ published: true
 
 
 
-My name is Allen Hinkelman, I'm a San Fransisco based Growth Marketer with a background in Lean, SCRUM and finance. In my spare time I'm on my bike, hiking or reading.
+
+My name is Allen Hinkelman, I'm a San Fransisco based Growth Marketer with a background in Lean, SCRUM and process consulting.
 
 ### Orginizations I'm involved with:
 - [Tradecraft](tradecrafted.com)

@@ -3,11 +3,11 @@ layout: post
 subtitle: null
 date: "2016-02-18"
 published: false
-title: Untitled
+title: Building this
 ---
 
 
-## Holy Shit, I did not realize what I'd committed to!
+## I did not realize what I'd committed to!
 
 So about three weeks ago I decided as a marketer, what better way to build skills and brand my self, than building a brand website?
 

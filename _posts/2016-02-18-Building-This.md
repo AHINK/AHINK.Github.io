@@ -1,10 +1,11 @@
 ---
 layout: post
 subtitle: null
-date: ""
+date: "2016-02-18"
 published: false
 title: Untitled
 ---
+
 
 ## Holy Shit, I did not realize what I'd committed to!
 

@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: A note on Geo Targeting for Ads
+date: "2016-05-11"
 ---
 ## TLDR: skate where the puck's going to be. 
 

@@ -3,6 +3,6 @@ layout: post
 published: false
 title: A note on Geo Targeting for Ads
 ---
-## A New Post
+## TLDR: skate where the puck's going to be. 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I'm working with a friend/client who's running a independent shop competing with several small chains. They're in the midwest, I'm in San Fransisco. 

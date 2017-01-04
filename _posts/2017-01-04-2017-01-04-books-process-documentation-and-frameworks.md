@@ -14,5 +14,4 @@ In 2015 I started keeping a journal of sorts, 15-30 minutes of writing in a plai
 I also take a number of notes of what's worked for clients, the impacts of what I'm reading, and ideas for projects.
 Going forward in 2017 I'll be sharing my thoughts about the books I'm reading, my take on growth process frameworks & documentation[(Patreon's Process)](https://patreonhq.com/why-would-i-ever-write-a-growth-experiment-doc-6ef2649fd215#.f6hsuxky9)[(Patreon's Experiment Doc)](https://paper.dropbox.com/doc/Experiment-Doc-Template-Patreon-Growth-Team-xbEoYTCXoXzB8ACw30Rxe)as well as the results of any experiments that I can share with you.
 
-![]({{site.baseurl}}/img/MerryNewYear.jpg)![MerryNewYear.jpg]
-
+![]({{site.baseurl}}/img/MerryNewYear.jpg)

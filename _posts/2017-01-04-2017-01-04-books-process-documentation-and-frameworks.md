@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: '2017-01-04-Books, Process Documentation and Frameworks'
 ---
 ## A New Year

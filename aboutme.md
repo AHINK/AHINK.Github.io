@@ -12,6 +12,6 @@ Hi, I'm a San Francisco based Growth Marketer with a background in Lean, SCRUM a
 
 In SF and want to talk marketing? [Tweet at me](https://twitter.com/AllenHinkelman)
 
-### Orginizations I'm involved with:
+### Organizations I'm involved with:
 - [Startup Digest, Silicon Valley](https://www.startupdigest.com/digests/silicon-valley)
 - [Tradecraft](tradecrafted.com)
